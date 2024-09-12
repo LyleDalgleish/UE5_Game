@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -19,11 +19,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "MoveIt",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1b8d6e55c50b4b189f283cbbe3d266d9"
 		}
 	]
 }
